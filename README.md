@@ -19,12 +19,7 @@
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): Zustand is a small, fast and scalable bearbones state-management solution.
 - [BlockNote](https://blocknote.dev/): BlockNote is a Notion-like editor for React.
 - [Zod](https://zod.dev/): Zod is a TypeScript-first schema declaration and validation library.
-- [Vercel](https://vercel.com/): Vercel is a cloud platform for frontend developers, providing the frameworks, workflows, and infrastructure to build a faster, more personalized Web.
-
 </details><br/>
-
-[![Technologies Used](https://skillicons.dev/icons?i=ts,nextjs,tailwind,vercel)](https://skillicons.dev)
-
 
 
 ## Key Features:
