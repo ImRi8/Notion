@@ -1,0 +1,14 @@
+[build]
+  # Define the build command
+  command = "npx convex dev"
+
+# Optional: You can specify the base directory if your project is not in the root
+# base = "path/to/your/project"
+
+# Optional: You can specify the Node.js version to use
+# [build.environment]
+#   NODE_VERSION = "14"
+
+# Optional: You can specify environment variables
+# [build.environment]
+#   YOUR_VARIABLE = "your_value"
